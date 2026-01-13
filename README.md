@@ -1,12 +1,12 @@
 # Hello there 👋
 ## Shaun Beck
 ### Senior React / Angular Frontend Developer
-**Eau Claire, WI, USA** | dev0825conscientious@gmail.com
+**Eau Claire, WI, USA** | shaunbeck001@gmail.com
 
-<a href="https://github.com/0xNevo" target="_blank">
+<a href="https://github.com/BiTronicHHH" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="GitHub" height="20">
 </a>
-<a href="mailto:dev0825conscientious@gmail.com">
+<a href="mailto:shaunbeck001@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="20">
 </a>
 
